@@ -1,19 +1,19 @@
 <?php
-$banner = "images/ds/banner.jpg";
+$banner = "images/ds/banner.png";
 $ds01 = "images/ds/ds01.gif";
-$ds02 = "images/ds/ds02.gif";
-$ds03 = "images/ds/ds03.gif";
+$ds02 = "images/ds/ds02.png";
+$ds03 = "images/ds/ds03.jpg";
 $ds04 = "images/ds/ds04.jpg";
-$ds05 = "images/ds/ds05.jpg";
-$ds06 = "images/ds/ds06.png";
-$ds07 = "images/ds/ds07.jpg";
+$ds05 = "images/ds/ds05.gif";
+$ds06 = "images/ds/ds06.jpg";
+$ds07 = "images/ds/ds07.gif";
 $ds08 = "images/ds/ds08.gif";
-$ds09 = "images/ds/ds09.jpg";
+$ds09 = "images/ds/ds09.gif";
 $ds10 = "images/ds/ds10.jpg";
 $ds11 = "images/ds/ds11.jpg";
-$ds12 = "images/ds/ds12.jpg";
-$ds13 = "images/ds/ds13.jpg";
-$ds14 = "images/ds/ds14.jpg";
+$ds12 = "images/ds/ds12.png";
+$ds13 = "images/ds/ds13.png";
+$ds14 = "images/ds/ds14.gif";
 $ds15 = "images/ds/ds15.jpg";
 ?>
 
@@ -78,26 +78,26 @@ $ds15 = "images/ds/ds15.jpg";
         </div>
         <i class="nav-icons fa fa-bars" onclick="showMenu()"></i>
       </nav>
-      <h1 style="text-align: center; padding-top: 40px">Naruto Photo gallery</h1>
+      <h1 style="text-align: center; padding-top: 40px">Demon Slayer Photo gallery</h1>
     </section>
 
     <!----- Lesson ----->
     <div class="gallery">
-      <img src="<?php echo $nr01; ?>">
-      <img src="<?php echo $nr02; ?>">
-      <img src="<?php echo $nr03; ?>">
-      <img src="<?php echo $nr04; ?>">
-      <img src="<?php echo $nr05; ?>">
-      <img src="<?php echo $nr06; ?>">
-      <img src="<?php echo $nr07; ?>">
-      <img src="<?php echo $nr08; ?>">
-      <img src="<?php echo $nr09; ?>">
-      <img src="<?php echo $nr10; ?>">
-      <img src="<?php echo $nr11; ?>">
-      <img src="<?php echo $nr12; ?>">
-      <img src="<?php echo $nr13; ?>">
-      <img src="<?php echo $nr14; ?>">
-      <img src="<?php echo $nr15; ?>">
+      <img src="<?php echo $ds01; ?>">
+      <img src="<?php echo $ds02; ?>">
+      <img src="<?php echo $ds03; ?>">
+      <img src="<?php echo $ds04; ?>">
+      <img src="<?php echo $ds05; ?>">
+      <img src="<?php echo $ds06; ?>">
+      <img src="<?php echo $ds07; ?>">
+      <img src="<?php echo $ds08; ?>">
+      <img src="<?php echo $ds09; ?>">
+      <img src="<?php echo $ds10; ?>">
+      <img src="<?php echo $ds11; ?>">
+      <img src="<?php echo $ds12; ?>">
+      <img src="<?php echo $ds13; ?>">
+      <img src="<?php echo $ds14; ?>">
+      <img src="<?php echo $ds15; ?>">
     </div>
 
     <!-- CTA -->
