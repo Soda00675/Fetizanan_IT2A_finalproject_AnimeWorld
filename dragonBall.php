@@ -1,20 +1,20 @@
 <?php
-$banner = "images/db/banner.png";
+$banner = "images/db/banner.jpg";
 $db01 = "images/db/db01.gif";
 $db02 = "images/db/db02.png";
 $db03 = "images/db/db03.jpg";
 $db04 = "images/db/db04.jpg";
-$db05 = "images/db/db05.gif";
+$db05 = "images/db/db05.jpg";
 $db06 = "images/db/db06.jpg";
-$db07 = "images/db/db07.gif";
+$db07 = "images/db/db07.jpg";
 $db08 = "images/db/db08.gif";
-$db09 = "images/db/db09.gif";
+$db09 = "images/db/db09.jpg";
 $db10 = "images/db/db10.jpg";
 $db11 = "images/db/db11.jpg";
-$db12 = "images/db/db12.png";
-$db13 = "images/db/db13.png";
-$db14 = "images/db/db14.gif";
-$db15 = "images/db/db15.jpg";
+$db12 = "images/db/db12.jpg";
+$db13 = "images/db/db13.jpg";
+$db14 = "images/db/db14.jpg";
+$db15 = "images/db/db15.gif";
 ?>
 
 <!DOCTYPE html>
