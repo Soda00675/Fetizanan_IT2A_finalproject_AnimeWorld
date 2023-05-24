@@ -1,20 +1,20 @@
 <?php
-$banner = "images/ds/banner.png";
-$ds01 = "images/ds/ds01.gif";
-$ds02 = "images/ds/ds02.png";
-$ds03 = "images/ds/ds03.jpg";
-$ds04 = "images/ds/ds04.jpg";
-$ds05 = "images/ds/ds05.gif";
-$ds06 = "images/ds/ds06.jpg";
-$ds07 = "images/ds/ds07.gif";
-$ds08 = "images/ds/ds08.gif";
-$ds09 = "images/ds/ds09.gif";
-$ds10 = "images/ds/ds10.jpg";
-$ds11 = "images/ds/ds11.jpg";
-$ds12 = "images/ds/ds12.png";
-$ds13 = "images/ds/ds13.png";
-$ds14 = "images/ds/ds14.gif";
-$ds15 = "images/ds/ds15.jpg";
+$banner = "images/db/banner.png";
+$db01 = "images/db/db01.gif";
+$db02 = "images/db/db02.png";
+$db03 = "images/db/db03.jpg";
+$db04 = "images/db/db04.jpg";
+$db05 = "images/db/db05.gif";
+$db06 = "images/db/db06.jpg";
+$db07 = "images/db/db07.gif";
+$db08 = "images/db/db08.gif";
+$db09 = "images/db/db09.gif";
+$db10 = "images/db/db10.jpg";
+$db11 = "images/db/db11.jpg";
+$db12 = "images/db/db12.png";
+$db13 = "images/db/db13.png";
+$db14 = "images/db/db14.gif";
+$db15 = "images/db/db15.jpg";
 ?>
 
 <!DOCTYPE html>
@@ -78,26 +78,26 @@ $ds15 = "images/ds/ds15.jpg";
         </div>
         <i class="nav-icons fa fa-bars" onclick="showMenu()"></i>
       </nav>
-      <h1 style="text-align: center; padding-top: 40px">Demon Slayer Photo gallery</h1>
+      <h1 style="text-align: center; padding-top: 40px">Dragon ball Photo gallery</h1>
     </section>
 
     <!----- Lesson ----->
     <div class="gallery">
-      <img src="<?php echo $ds01; ?>">
-      <img src="<?php echo $ds02; ?>">
-      <img src="<?php echo $ds03; ?>">
-      <img src="<?php echo $ds04; ?>">
-      <img src="<?php echo $ds05; ?>">
-      <img src="<?php echo $ds06; ?>">
-      <img src="<?php echo $ds07; ?>">
-      <img src="<?php echo $ds08; ?>">
-      <img src="<?php echo $ds09; ?>">
-      <img src="<?php echo $ds10; ?>">
-      <img src="<?php echo $ds11; ?>">
-      <img src="<?php echo $ds12; ?>">
-      <img src="<?php echo $ds13; ?>">
-      <img src="<?php echo $ds14; ?>">
-      <img src="<?php echo $ds15; ?>">
+      <img src="<?php echo $db01; ?>">
+      <img src="<?php echo $db02; ?>">
+      <img src="<?php echo $db03; ?>">
+      <img src="<?php echo $db04; ?>">
+      <img src="<?php echo $db05; ?>">
+      <img src="<?php echo $db06; ?>">
+      <img src="<?php echo $db07; ?>">
+      <img src="<?php echo $db08; ?>">
+      <img src="<?php echo $db09; ?>">
+      <img src="<?php echo $db10; ?>">
+      <img src="<?php echo $db11; ?>">
+      <img src="<?php echo $db12; ?>">
+      <img src="<?php echo $db13; ?>">
+      <img src="<?php echo $db14; ?>">
+      <img src="<?php echo $db15; ?>">
     </div>
 
     <!-- CTA -->
