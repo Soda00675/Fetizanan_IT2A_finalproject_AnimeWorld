@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             $xml->asXML($xmlFilePath);
 
-            echo "<script>window.location.href = 'index.php';</script>";
+            echo "<script>window.location.href = 'login.php';</script>";
         }
     }
 }
@@ -80,7 +80,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="create">
                 
                 <h1><?php echo "Already have an account?"?></h1>
-                <a href="index.php"><?php echo "Login"?></a>
+                <a href="login.php"><?php echo "Login"?></a>
                 <i class="ri-arrow-right-fill"></i>
             </div>
         </div>
