@@ -94,7 +94,7 @@ $Logo = "images/RealLogo.png";
                 <div>
                     <i class="fa fa-envelope"></i>
                     <span>
-                        <h5><?php echo "info@onepiecewebsite.com"?></h5>
+                        <h5><?php echo "info@animeworld.com"?></h5>
                         <p><?php echo "Email us in your query"?></p>
                     </span>
                 </div>
