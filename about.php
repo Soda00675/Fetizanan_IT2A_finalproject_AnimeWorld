@@ -73,23 +73,14 @@ $bg = "images/bg2.jpg";
     <section class="about-us">
         <div class="row">
             <div class="about-col">
-                <h1><?php echo "Anime Life Lesson"?></h1>
+                <h1><?php echo "About Us"?></h1>
                 <p>
                 <?php echo "
-                    Welcome to the official One Piece website!
-                     We are the ultimate destination for fans 
-                     of the One Piece anime and manga series 
-                     created by Eiichiro Oda. Our mission is 
-                     to bring fans together, provide the latest
-                      news and updates, and offer a comprehensive
-                      resource for all things One Piece. With a 
-                      passionate team of dedicated fans, we strive
-                       to create an inclusive community where fans can 
-                       immerse themselves in the captivating world of 
-                       Monkey D. Luffy and his Straw Hat Pirates. Join us as we
-                        celebrate the adventure, friendship, and dreams that 
-                        define One Piece. Explore our website, engage with the 
-                        community, and let the grand adventure continue!"?>
+                    Welcome to AnimeWorld, the ultimate online destination for anime enthusiasts seeking a visual feast of captivating anime artwork. Our photo gallery is dedicated to showcasing the mesmerizing world of anime through stunning visuals that will leave you spellbound.<br> <br>
+
+                    At AnimeWorld, we understand the power of anime artistry and its ability to transport us to extraordinary realms. Our team of passionate anime lovers has curated a diverse and carefully selected collection of anime images that represent the beauty, diversity, and creativity of this captivating art form.<br><br>
+                    
+                    With our extensive photo gallery, we aim to celebrate the exceptional talent of anime artists and the incredible attention to detail that goes into creating each frame. From breathtaking landscapes to intricate character designs, action-packed scenes to heartwarming moments, our collection encompasses the full spectrum of emotions and experiences that anime has to offer."?>
                 </p>
                     <a href="" class="hero-btn black-btn"><?php echo "EXPLORE NOW"?></a>
             </div>
