@@ -1,6 +1,7 @@
 <?php
 $videoBg = "images/bg1.webm";
 $bg = "images/bg2.jpg";
+$Logo = "images/RealLogo.png";
 ?>
 
 <!DOCTYPE html>

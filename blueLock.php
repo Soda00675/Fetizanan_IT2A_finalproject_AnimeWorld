@@ -15,7 +15,7 @@ $bl12 = "images/bl/bl12.gif";
 $bl13 = "images/bl/bl13.gif";
 $bl14 = "images/bl/bl14.jpg";
 $bl15 = "images/bl/bl15.jpg";
-
+$Logo = "images/RealLogo.png";
 
 ?>
 

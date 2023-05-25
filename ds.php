@@ -15,6 +15,7 @@ $ds12 = "images/ds/ds12.png";
 $ds13 = "images/ds/ds13.png";
 $ds14 = "images/ds/ds14.gif";
 $ds15 = "images/ds/ds15.jpg";
+$Logo = "images/RealLogo.png";
 ?>
 
 <!DOCTYPE html>

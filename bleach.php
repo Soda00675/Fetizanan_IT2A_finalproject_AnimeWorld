@@ -15,7 +15,7 @@ $bleach12 = "images/bleach/bleach12.jpg";
 $bleach13 = "images/bleach/bleach13.jpg";
 $bleach14 = "images/bleach/bleach14.gif";
 $bleach15 = "images/bleach/bleach15.gif";
-
+$Logo = "images/RealLogo.png";
 
 ?>
 

@@ -16,7 +16,7 @@ $lk13 = "images/lookism/lk13.jpg";
 $lk14 = "images/lookism/lk14.jpg";
 $lk15 = "images/lookism/lk15.jpg";
 
-
+$Logo = "images/RealLogo.png";
 ?>
 
 <!DOCTYPE html>

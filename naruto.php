@@ -15,6 +15,7 @@ $nr12 = "images/naruto/naruto12.jpg";
 $nr13 = "images/naruto/naruto13.jpg";
 $nr14 = "images/naruto/naruto14.jpg";
 $nr15 = "images/naruto/naruto15.jpg";
+$Logo = "images/RealLogo.png";
 ?>
 
 <!DOCTYPE html>

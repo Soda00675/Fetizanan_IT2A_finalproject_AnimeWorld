@@ -15,6 +15,7 @@ $hxh12 = "images/hxh/hxh12.jpg";
 $hxh13 = "images/hxh/hxh13.gif";
 $hxh14 = "images/hxh/hxh14.gif";
 $hxh15 = "images/hxh/hxh15.jpg";
+$Logo = "images/RealLogo.png";
 ?>
 
 <!DOCTYPE html>

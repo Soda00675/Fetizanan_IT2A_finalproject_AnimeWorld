@@ -1,9 +1,9 @@
 <?php
 $videoBg = "images/bg.webm";
 $OpLogo = "images/LG.png";
-$Logo = "images/LOGO4.png";
+$Logo = "images/RealLogo.png";
 $bg = "images/bg2.jpg";
-
+$lo = "images/LO.png"
 ?>
 
 <!DOCTYPE html>
@@ -71,11 +71,10 @@ $bg = "images/bg2.jpg";
 
       <div class="text-box">
         
-      <a href="index.php"><img src="<?php echo $OpLogo; ?>" alt="logo" /></a>
+      <a href="index.php"><img src="<?php echo $lo; ?>" alt="logo" /></a>
         <p>
           <?php echo " “Power isnt determined by your size, but the size of your heart and dreams!” "?>
         </p>
-        <a href="login.php" class="hero-btn"><?php echo "LOG IN"?></a>
       </div>
     </section>
 

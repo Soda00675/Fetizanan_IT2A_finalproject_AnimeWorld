@@ -18,6 +18,7 @@ $op12 = "images\op\op12.gif";
 $op13 = "images\op\op13.jpg";
 $op14 = "images\op\op14.jpg";
 $op15 = "images\op\op15.webp";
+$Logo = "images/RealLogo.png";
 ?>
 
 <!DOCTYPE html>
