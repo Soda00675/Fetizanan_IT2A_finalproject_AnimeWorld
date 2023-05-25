@@ -48,13 +48,15 @@ $bg = "images/bg2.jpg";
           <li><a href="contact.php"><?php echo "CONTACT"?></a></li>
         <li class="dropdown"><a><span><?php echo "COFFEE GALERY"?></span> <i class="bi bi-chevron-down"></i></a>
           <ul>
-            <li><a class="nav-link scrollto" href="#"><?php echo "Home"?></a></li>
-            <li><a class="nav-link scrollto" href="about.php"><?php echo "About"?></a></li>
-            <li><a class="nav-link scrollto" href="feature.php"><?php echo "Features"?></a></li>
-            <li><a class="nav-link scrollto" href="bots.php"><?php echo "Our-Bots"?></a></li>
-            <li><a class="nav-link scrollto" href="team.php"><?php echo "Team"?></a></li>
-            <li><a class="nav-link scrollto" href="faq.php"><?php echo "F.A.Q"?></a></li>
-            <li><a class="nav-link scrollto" href="#footer"><?php echo "Footer"?></a></li>
+              <li><a class="nav-link scrollto" href="naruto.php"><?php echo "NARUTO"?></a></li>
+              <li><a class="nav-link scrollto" href="op.php"><?php echo "ONE PIECE"?></a></li>
+              <li><a class="nav-link scrollto" href="ds.php"><?php echo "DEMON SLAYER"?></a></li>
+              <li><a class="nav-link scrollto" href="bleach.php"><?php echo "BLEACH"?></a></li>
+              <li><a class="nav-link scrollto" href="hxh.php"><?php echo "HUNTER X HUNTER"?></a></li>
+              <li><a class="nav-link scrollto" href="dragonBall.php"><?php echo "DRAGON BALL"?></a></li>
+              <li><a class="nav-link scrollto" href="blueLock.php"><?php echo "Blue Lock"?></a></li>
+              <li><a class="nav-link scrollto" href="lookism.php"><?php echo "Lookism"?></a></li>
+              <li><a class="nav-link scrollto" href="index.php"><?php echo "LOGOUT"?></a></li>
           </ul>
         </li>
         </ul>

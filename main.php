@@ -54,12 +54,13 @@ $bg = "images/bg2.jpg";
             <ul>
               <li><a class="nav-link scrollto" href="naruto.php"><?php echo "NARUTO"?></a></li>
               <li><a class="nav-link scrollto" href="op.php"><?php echo "ONE PIECE"?></a></li>
-              <li><a class="nav-link scrollto" href="feature.php"><?php echo "DEMON SLAYER"?></a></li>
+              <li><a class="nav-link scrollto" href="ds.php"><?php echo "DEMON SLAYER"?></a></li>
               <li><a class="nav-link scrollto" href="bleach.php"><?php echo "BLEACH"?></a></li>
-              <li><a class="nav-link scrollto" href="team.php"><?php echo "HUNTER X HUNTER"?></a></li>
-              <li><a class="nav-link scrollto" href="faq.php"><?php echo "DRAGON BALL"?></a></li>
-              <li><a class="nav-link scrollto" href="#footer"><?php echo "Blue Lock"?></a></li>
-              <li><a class="nav-link scrollto" href="#footer"><?php echo "Lookism"?></a></li>
+              <li><a class="nav-link scrollto" href="hxh.php"><?php echo "HUNTER X HUNTER"?></a></li>
+              <li><a class="nav-link scrollto" href="dragonBall.php"><?php echo "DRAGON BALL"?></a></li>
+              <li><a class="nav-link scrollto" href="blueLock.php"><?php echo "Blue Lock"?></a></li>
+              <li><a class="nav-link scrollto" href="lookism.php"><?php echo "Lookism"?></a></li>
+              <li><a class="nav-link scrollto" href="index.php"><?php echo "LOGOUT"?></a></li>
             </ul>
           </li>
           </ul>

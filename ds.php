@@ -57,20 +57,21 @@ $ds15 = "images/ds/ds15.jpg";
           <i class="nav-icons fa fa-times" onclick="hideMenu()"></i>
 
           <ul>
-            <li><a href="#"><?php echo "HOME"?></a></li>
+            <li><a href="main.php"><?php echo "HOME"?></a></li>
             <li><a href="about.php"><?php echo "ABOUT"?></a></li>
             <li><a href="blog.php"><?php echo "BLOG"?></a></li>
             <li><a href="contact.php"><?php echo "CONTACT"?></a></li>
           <li class="dropdown"><a><span><?php echo "MENU"?></span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a class="nav-link scrollto" href="#"><?php echo "Breakfast"?></a></li>
-              <li><a class="nav-link scrollto" href="about.php"><?php echo "Hot Coffee"?></a></li>
-              <li><a class="nav-link scrollto" href="feature.php"><?php echo "Cake"?></a></li>
-              <li><a class="nav-link scrollto" href="bots.php"><?php echo "Salad"?></a></li>
-              <li><a class="nav-link scrollto" href="team.php"><?php echo "Chicken"?></a></li>
-              <li><a class="nav-link scrollto" href="faq.php"><?php echo "Iced Coffee"?></a></li>
-              <li><a class="nav-link scrollto" href="#footer"><?php echo "Wine"?></a></li>
-              <li><a class="nav-link scrollto" href="#footer"><?php echo "Burger"?></a></li>
+              <li><a class="nav-link scrollto" href="naruto.php"><?php echo "NARUTO"?></a></li>
+              <li><a class="nav-link scrollto" href="op.php"><?php echo "ONE PIECE"?></a></li>
+              <li><a class="nav-link scrollto" href="#"><?php echo "DEMON SLAYER"?></a></li>
+              <li><a class="nav-link scrollto" href="bleach.php"><?php echo "BLEACH"?></a></li>
+              <li><a class="nav-link scrollto" href="hxh.php"><?php echo "HUNTER X HUNTER"?></a></li>
+              <li><a class="nav-link scrollto" href="dragonBall.php"><?php echo "DRAGON BALL"?></a></li>
+              <li><a class="nav-link scrollto" href="blueLock.php"><?php echo "Blue Lock"?></a></li>
+              <li><a class="nav-link scrollto" href="lookism.php"><?php echo "Lookism"?></a></li>
+              <li><a class="nav-link scrollto" href="index.php"><?php echo "LOGOUT"?></a></li>
             </ul>
           </li>
           </ul>
