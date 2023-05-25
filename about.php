@@ -1,7 +1,7 @@
 <?php
-$videoBg = "images/bg1.webm";
-$bg = "images/bg2.jpg";
+$bg = "images/bannerT.jpg";
 $Logo = "images/RealLogo.png";
+$videoBg = "images/bg.mp4";
 ?>
 
 <!DOCTYPE html>
@@ -36,7 +36,7 @@ $Logo = "images/RealLogo.png";
    <section class="sub-header">
     <nav>
 
-      <!---<video class="background-video" muted autoplay loop src="<?php echo $videoBg; ?>"></video>--->
+      <!---<video class="background-video" muted autoplay loop src="<?php echo $videoBg; ?> "></video>--->
       <img class="background-video" src="<?php echo $bg; ?>" style="height: 50%;"/>
       <img src="<?php echo $Logo; ?>" alt="logo" />
       <div class="nav-links" id="nav-links">
@@ -47,7 +47,7 @@ $Logo = "images/RealLogo.png";
           <li><a href="#"><?php echo "ABOUT"?></a></li>
           <li><a href="blog.php"><?php echo "BLOG"?></a></li>
           <li><a href="contact.php"><?php echo "CONTACT"?></a></li>
-        <li class="dropdown"><a><span><?php echo "COFFEE GALERY"?></span> <i class="bi bi-chevron-down"></i></a>
+        <li class="dropdown"><a><span><?php echo "GALERY"?></span> <i class="bi bi-chevron-down"></i></a>
           <ul>
               <li><a class="nav-link scrollto" href="naruto.php"><?php echo "NARUTO"?></a></li>
               <li><a class="nav-link scrollto" href="op.php"><?php echo "ONE PIECE"?></a></li>

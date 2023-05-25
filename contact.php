@@ -1,6 +1,6 @@
 <?php
 $videoBg = "images/bg1.webm";
-$bg = "images/bg2.jpg";
+$bg = "images/bannerT.jpg";
 $Logo = "images/RealLogo.png";
 ?>
 
@@ -47,7 +47,7 @@ $Logo = "images/RealLogo.png";
           <li><a href="about.php"><?php echo "ABOUT"?></a></li>
           <li><a href="blog.php"><?php echo "BLOG"?></a></li>
           <li><a href="#"><?php echo "CONTACT"?></a></li>
-        <li class="dropdown"><a><span><?php echo "COFFEE GALERY"?></span> <i class="bi bi-chevron-down"></i></a>
+        <li class="dropdown"><a><span><?php echo "GALLERY"?></span> <i class="bi bi-chevron-down"></i></a>
           <ul>
               <li><a class="nav-link scrollto" href="naruto.php"><?php echo "NARUTO"?></a></li>
               <li><a class="nav-link scrollto" href="op.php"><?php echo "ONE PIECE"?></a></li>

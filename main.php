@@ -1,5 +1,5 @@
 <?php
-$videoBg = "images/bg.webm";
+$videoBg = "images/bg.mp4";
 $OpLogo = "images/LG.png";
 $Logo = "images/RealLogo.png";
 $bg = "images/bg2.jpg";
@@ -50,7 +50,7 @@ $lo = "images/LO.png"
             <li><a href="about.php">ABOUT</a></li>
             <li><a href="blog.php">BLOG</a></li>
             <li><a href="contact.php">CONTACT</a></li>
-          <li class="dropdown"><a><span>MENU</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a><span>GALLERY</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a class="nav-link scrollto" href="naruto.php"><?php echo "NARUTO"?></a></li>
               <li><a class="nav-link scrollto" href="op.php"><?php echo "ONE PIECE"?></a></li>
