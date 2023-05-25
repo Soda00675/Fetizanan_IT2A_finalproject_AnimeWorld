@@ -73,7 +73,7 @@ $bg = "images/bg2.jpg";
     <section class="about-us">
         <div class="row">
             <div class="about-col">
-                <h1><?php echo "ONE PIECE"?></h1>
+                <h1><?php echo "Anime Life Lesson"?></h1>
                 <p>
                 <?php echo "
                     Welcome to the official One Piece website!

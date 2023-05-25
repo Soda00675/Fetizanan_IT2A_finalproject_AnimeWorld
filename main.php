@@ -82,44 +82,47 @@ $bg = "images/bg2.jpg";
     <!----- Lesson ----->
 
     <section class="lesson">
-      <h1><?php echo "Life Lesson One Piece Has to Offer"?></h1>
-      <p><?php echo "One Piece is not just anime but also a source of inspiration and learning."?></p>
+      <h1><?php echo "Life Lesson Anime Has to Offer"?></h1>
+      <p><?php echo "These life lessons can be found in various anime series and are often depicted through engaging storylines and memorable characters."?></p>
 
       <div class="row">
         <div class="lesson-col">
-          <h3><?php echo "Follow your dreams"?></h3>
+          <h3><?php echo "Embrace individuality and be true to yourself:"?></h3>
           <p>
           <?php echo 
-            "One of the primary themes of One Piece is following your dreams. 
-            The main character, Monkey D. Luffy, sets out to become the Pirate 
-            King, and he never gives up on his dream, no matter what obstacles
-             he faces. This is an important lesson for everyone to follow their
-             dreams, even if it seems impossible or difficult." ?>
+            "
+            Many anime series emphasize the importance of embracing one's uniqueness 
+            and being true to oneself. Characters often face societal pressures or 
+            struggle with their own identity, but they ultimately learn that it's 
+            important to embrace their individuality and not conform to others' 
+            expectations. This lesson encourages viewers to embrace their own quirks, 
+            talents, and passions, and to not be afraid of standing out." ?>
           </p>
         </div>
 
         <div class="lesson-col1">
-          <h3><?php echo "The importance of friendship"?></h3>
+          <h3><?php echo "Perseverance and resilience in the face of adversity:"?></h3>
           <p>
           <?php echo 
-            "Another lesson in One Piece is the importance of friendship. 
-            Luffy's crew is made up of people from all different backgrounds,
-             and they all work together to achieve their goals. The crew 
-             supports each other through thick and thin, and they are willing 
-             to risk their lives for one another. This is a powerful message 
-             about the value of true friendship."?>
+            "Anime often portrays characters facing immense challenges, setbacks, 
+            and even failures. However, they learn the value of perseverance and 
+            resilience by picking themselves up and continuing to move forward. 
+            This lesson teaches viewers the importance of not giving up when faced 
+            with difficulties, and to keep striving for their goals, no matter how 
+            daunting the obstacles may seem."?>
           </p>
         </div>
 
         <div class="lesson-col2">
-          <h3><?php echo "The consequences of power"?></h3>
+          <h3><?php echo "The power of friendship and teamwork:"?></h3>
           <p>
           <?php echo 
-            "One Piece also explores the consequences of power. The series 
-            shows how those in positions of power can become corrupted 
-            by it, and how it can be used to oppress others. This is an 
-            important lesson about the responsibility that comes with 
-            power and the importance of using it wisely."?>
+            "Anime frequently emphasizes the strength of friendship and the power of 
+            teamwork. Characters come together, support one another, and overcome 
+            obstacles through their bonds. This lesson highlights the importance of 
+            surrounding yourself with supportive friends and recognizing the benefits 
+            of collaboration and cooperation. It teaches viewers that by working 
+            together, they can achieve more than they could alone."?>
         </div>
       </div>
     </section>
@@ -139,14 +142,14 @@ $bg = "images/bg2.jpg";
       <h4><?php echo "About Us"?></h4>
       <p>
       <?php echo 
-        "Welcome to the official One Piece website! We are dedicated to providing 
+        "Welcome to the AnimeWorld website! We are dedicated to providing 
         fans with the latest news, updates, and in-depth information about the 
-        incredible world of One Piece. <br>Our passionate team of fans is committed 
+        incredible world of anime. <br>Our passionate team of fans is committed 
         to creating a vibrant community where fans can connect, engage, and 
-        celebrate the adventures of Monkey D. Luffy and the Straw Hat Pirates.
+        celebrate the adventures of our favorite anime.
         <br>
         Contact Us:<br>
-        Email: info@onepiecewebsite.com<br>
+        Email: info@animeworldwebsite.com<br>
         Phone: +63-XXX-XXXX-XXX <br>"?>
       </p>
       <div class="icons">

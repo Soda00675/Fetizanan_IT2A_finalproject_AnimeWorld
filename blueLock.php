@@ -116,14 +116,14 @@ $bl15 = "images/bl/bl15.jpg";
       <h4><?php echo "About Us"?></h4>
       <p>
       <?php echo 
-        "Welcome to the official One Piece website! We are dedicated to providing 
+        "Welcome to the AnimeWorld website! We are dedicated to providing 
         fans with the latest news, updates, and in-depth information about the 
-        incredible world of One Piece. <br>Our passionate team of fans is committed 
+        incredible world of anime. <br>Our passionate team of fans is committed 
         to creating a vibrant community where fans can connect, engage, and 
-        celebrate the adventures of Monkey D. Luffy and the Straw Hat Pirates.
+        celebrate the adventures of our favorite anime.
         <br>
         Contact Us:<br>
-        Email: info@onepiecewebsite.com<br>
+        Email: info@animeworldwebsite.com<br>
         Phone: +63-XXX-XXXX-XXX <br>"?>
       </p>
       <div class="icons">
