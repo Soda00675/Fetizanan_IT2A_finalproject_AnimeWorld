@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 function validateUser($username, $password)
 {
-    $xml = simplexml_load_file('Fetizanan_IT2A_AnimeWolrc.xml');
+    $xml = simplexml_load_file('Fetizanan_IT2A_AnimeWolrd.xml');
     
     foreach ($xml->user as $user) {
         if ($user->username == $username && $user->password == $password) {

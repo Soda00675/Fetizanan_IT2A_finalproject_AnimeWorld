@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($password !== $confirmPassword) {
         $error = "Passwords do not match!";
     } else {
-        $xmlFilePath = 'Fetizanan_IT2A_AnimeWolrc.xml';
+        $xmlFilePath = 'Fetizanan_IT2A_AnimeWolrd.xml';
 
         if (file_exists($xmlFilePath)) {
             $xml = simplexml_load_file($xmlFilePath);
